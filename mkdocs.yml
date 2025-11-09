@@ -17,10 +17,6 @@ theme:
     - scheme: slate
       primary: indigo
       media: "(prefers-color-scheme: dark)"
-nav:
-  - Home: index.md
-  - Recipes:
-      - recipes/  # auto-list everything in this folder
 
 markdown_extensions:
   - tables
