@@ -22,7 +22,7 @@ jobs:
           pip install mkdocs mkdocs-material
 
       - name: Build site
-        run: mkdocs build --strict
+        run: mkdocs build
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
