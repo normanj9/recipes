@@ -1,0 +1,33 @@
+site_name: Jeremy's Recipe Collection
+site_description: Jeremy's Recipe Collection
+site_url: https://normanj9.github.io/recipes/
+repo_url: https://github.com/normanj9/recipes
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+    - scheme: slate
+      primary: indigo
+      media: "(prefers-color-scheme: dark)"
+nav:
+  - Home: index.md
+  - Recipes:
+      - recipes/  # auto-list everything in this folder
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search
