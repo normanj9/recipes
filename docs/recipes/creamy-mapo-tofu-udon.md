@@ -61,10 +61,11 @@
    Boil udon according to package directions. Drain well.
 
 7. **Assemble**  
-   1. Add udon noodles to each bowl.  
-   1. Spoon the hot meat mixture over the noodles.  
-   1. Pour the tofu cream sauce over top — let it flow naturally between the meat and noodles.  
-   1. Finish with scallion greens.
+
+    1. Add udon noodles to each bowl.  
+    1. Spoon the hot meat mixture over the noodles.  
+    1. Pour the tofu cream sauce over top — let it flow naturally between the meat and noodles.  
+    1. Finish with scallion greens.
 
 8. **To Eat**  
    Mix everything together just before eating so the tofu cream coats the noodles and meat evenly.
