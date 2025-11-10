@@ -27,7 +27,7 @@
 
 ## Instructions
 
-1. **Cook the Rice**
+1. **Cook the Rice**  
     Start rice in the cooker so it’s ready when the rest is done.  
 
 2. **Make the Gravy**  
@@ -38,13 +38,13 @@
     1. Add soy, Worcestershire, onion powder, garlic powder, and pepper.  
     1. Simmer until thick and glossy. Adjust seasoning.
 
-3. **Grill burgers**
+3. **Grill burgers**  
     Pull at 150.
 
-4. **Fry the Eggs**
+4. **Fry the Eggs**  
     Cook crispy-fried.
 
-5. **Assemble**
+5. **Assemble**  
     In each bowl: rice → burger → ladle of gravy → fried egg.  
     Garnish with scallions and furikake or togarashi.  
 
