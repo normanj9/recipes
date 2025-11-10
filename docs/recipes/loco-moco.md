@@ -30,7 +30,7 @@
 1. **Cook the Rice**
    Start rice in the cooker so it’s ready when the rest is done.  
 
-2. **Make the Gravy**
+2. **Make the Gravy**  
 
    1. Melt butter in a saucepan over medium heat.  
    1. Stir in flour; cook 2–3 minutes until golden and nutty.  
