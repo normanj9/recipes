@@ -32,11 +32,11 @@
 
 2. **Make the Gravy**  
 
-   1. Melt butter in a saucepan over medium heat.  
-   1. Stir in flour; cook 2–3 minutes until golden and nutty.  
-   1. Gradually whisk in beef stock.  
-   1. Add soy, Worcestershire, onion powder, garlic powder, and pepper.  
-   1. Simmer until thick and glossy. Adjust seasoning.
+    1. Melt butter in a saucepan over medium heat.  
+    1. Stir in flour; cook 2–3 minutes until golden and nutty.  
+    1. Gradually whisk in beef stock.  
+    1. Add soy, Worcestershire, onion powder, garlic powder, and pepper.  
+    1. Simmer until thick and glossy. Adjust seasoning.
 
 3. **Grill burgers**
     Pull at 150.
