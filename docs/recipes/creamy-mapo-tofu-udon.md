@@ -55,7 +55,7 @@
 
 5. **Make the Tofu Cream Sauce**  
    In a blender, combine silken tofu, miso, peanut butter, and soy sauce.
-   Blend until completely smooth and creamy. Taste and adjust seasoning — it should be savory, and nutty.
+   Blend until completely smooth and creamy. Taste and adjust seasoning — it should be savory and nutty.
 
 6. **Cook Udon**  
    Boil udon according to package directions. Drain well.
