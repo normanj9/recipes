@@ -28,7 +28,7 @@
 ## Instructions
 
 1. **Cook the Rice**
-   Start rice in the cooker so it’s ready when the rest is done.  
+    Start rice in the cooker so it’s ready when the rest is done.  
 
 2. **Make the Gravy**  
 
@@ -42,10 +42,10 @@
     Pull at 150.
 
 4. **Fry the Eggs**
-   Cook crispy-fried.
+    Cook crispy-fried.
 
 5. **Assemble**
-   In each bowl: rice → burger → ladle of gravy → fried egg.  
-   Garnish with scallions and furikake or togarashi.  
+    In each bowl: rice → burger → ladle of gravy → fried egg.  
+    Garnish with scallions and furikake or togarashi.  
 
 ---

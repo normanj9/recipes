@@ -35,37 +35,37 @@
 ## Instructions
 
 1. **Prep Aromatics**  
-   Mince garlic and ginger. Slice scallion whites and greens separately.
+    Mince garlic and ginger. Slice scallion whites and greens separately.
 
 2. **Cook Meat**  
-   Heat 1 Tbsp neutral oil in a wok or skillet over medium-high.  
-   Add the ground beef or pork and cook until browned and slightly crisp.  
-   Remove and set aside, leaving some fat in the pan.
+    Heat 1 Tbsp neutral oil in a wok or skillet over medium-high.  
+    Add the ground beef or pork and cook until browned and slightly crisp.  
+    Remove and set aside, leaving some fat in the pan.
 
 3. **Build the Mapo Base**  
-   Lower heat to medium.  
-   Add garlic, ginger, and scallion whites; sauté about 30 seconds until fragrant.  
-   Add doubanjiang; fry 45–60 seconds until the oil turns deep red and aromatic.
+    Lower heat to medium.  
+    Add garlic, ginger, and scallion whites; sauté about 30 seconds until fragrant.  
+    Add doubanjiang; fry 45–60 seconds until the oil turns deep red and aromatic.
 
 4. **Deglaze and Combine**  
-   Deglaze with Shaoxing wine.
-   Add sichuan chili oil, black vinegar, sugar, salt, and MSG.  
-   Return meat to the pan, stir-fry until glossy and cohesive, about 1–2 minutes.  
-   Set aside and keep warm.
+     Deglaze with Shaoxing wine.
+     Add sichuan chili oil, black vinegar, sugar, salt, and MSG.  
+     Return meat to the pan, stir-fry until glossy and cohesive, about 1–2 minutes.  
+     Set aside and keep warm.
 
 5. **Make the Tofu Cream Sauce**  
-   In a blender, combine silken tofu, miso, peanut butter, and soy sauce.
-   Blend until completely smooth and creamy. Taste and adjust seasoning — it should be savory and nutty.
+     In a blender, combine silken tofu, miso, peanut butter, and soy sauce.
+     Blend until completely smooth and creamy. Taste and adjust seasoning — it should be savory and nutty.
 
 6. **Cook Udon**  
-   Boil udon according to package directions. Drain well.
+    Boil udon according to package directions. Drain well.
 
 7. **Assemble**  
 
-    1. Add udon noodles to each bowl.  
-    1. Spoon the hot meat mixture over the noodles.  
-    1. Pour the tofu cream sauce over top — let it flow naturally between the meat and noodles.  
-    1. Finish with scallion greens.
+     1. Add udon noodles to each bowl.  
+     1. Spoon the hot meat mixture over the noodles.  
+     1. Pour the tofu cream sauce over top — let it flow naturally between the meat and noodles.  
+     1. Finish with scallion greens.
 
 8. **To Eat**  
-   Mix everything together just before eating so the tofu cream coats the noodles and meat evenly.
+    Mix everything together just before eating so the tofu cream coats the noodles and meat evenly.
