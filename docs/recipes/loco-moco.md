@@ -3,17 +3,17 @@
 ## Ingredients
 
 ### Rice & Patties
-- White rice (dry): **3 cups (≈555 g)**
-- Beef patties: **4 × 150–170 g**
+- White rice (dry): **3 cups**
+- Beef patties: **4**
 
 ### Gravy
-- Unsalted butter: **3 Tbsp (42 g)**
-- All-purpose flour: **3 Tbsp (24 g)**
-- Beef stock: **2 cups (480 ml)**
-- Soy sauce: **1 Tbsp (15 ml)**
-- Worcestershire sauce: **1 tsp (5 ml)**
-- Onion powder: **½ tsp (1–2 g)**
-- Garlic powder: **½ tsp (1–2 g)**
+- Unsalted butter: **3 Tbsp**
+- All-purpose flour: **3 Tbsp**
+- Beef stock: **2 cups**
+- Soy sauce: **1 Tbsp**
+- Worcestershire sauce: **1 tsp**
+- Onion powder: **½ tsp**
+- Garlic powder: **½ tsp**
 - Black pepper: to taste
 
 ### To Serve
@@ -36,7 +36,7 @@
 
 ### 3. Cook the Patties
 1. Grill hot and fast.  
-2. Pull at **150°F (66°C)**.
+2. Pull at **150°F**.
 
 ### 4. Fry the Eggs
 1. Fry eggs with crispy edges.

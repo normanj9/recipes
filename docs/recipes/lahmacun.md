@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-### Dough (10 thin rounds)
+### Dough (~10 thin rounds)
 - Warm water: **1 cup (240 g)**
 - Instant yeast: **1.5 tsp (5 g)**
 - Sugar: **1 tsp (4 g)**
@@ -10,7 +10,7 @@
 - Salt: **1.5 tsp (9 g)**
 - Olive oil: **1 tbsp (15 g)**
 
-### Meat Topping (food-processor method, no crushed tomato)
+### Meat Topping
 - Ground beef: **1.5 lb** (~1 costco pack)
 - Onion: **1 medium (~150 g)**
 - Garlic: **3 cloves (~12 g)**
@@ -38,7 +38,7 @@
 3. Cover and rise **1 hour** until doubled.  
 4. Divide into **60 g balls (~10)**; rest **15 min**.
 
-### 2. Make the Topping (Food Processor)
+### 2. Make the Topping
 1. In the processor: onion chunks, garlic, bell pepper → pulse to a **fine mince**, not a puree.  
 2. Add parsley → quick pulses to incorporate.  
 3. Move veg mix to a bowl.  
