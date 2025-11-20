@@ -39,14 +39,14 @@
 4. Divide into **60 g balls (~10)**; rest **15 min**.
 
 ### 2. Make the Topping (Food Processor)
-1. In the processor: onion chunks, garlic, bell pepper → pulse to a **fine mince**, not a puree.
-2. Add parsley → quick pulses to incorporate. 
-3. Move veg mix to a bowl.
+1. In the processor: onion chunks, garlic, bell pepper → pulse to a **fine mince**, not a puree.  
+2. Add parsley → quick pulses to incorporate.  
+3. Move veg mix to a bowl.  
 4. Add ground beef, tomato paste, olive oil, paprika, Aleppo, cumin, salt, pepper.  
 5. Mix thoroughly.
 
 ### 3. Shape the Bases
-1. Preheat oven to **475°F**. Place your sheet pan inside to preheat.
+1. Preheat oven to **475°F**. Place your sheet pan inside to preheat.  
 2. Roll each dough ball **very thin**. You want almost tortilla-thin.
 
 ### 4. Assemble
