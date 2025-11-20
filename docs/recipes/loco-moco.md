@@ -1,51 +1,46 @@
 # Loco Moco
 
-**Serves:** 4  
-**Total Time:** ~35 minutes  
-
----
-
 ## Ingredients
-  
-- 3 cups rice
-- 4 burger patties
+
+### Rice & Patties
+- White rice (dry): **3 cups (≈555 g)**
+- Beef patties: **4 × 150–170 g**
 
 ### Gravy
-- 3 Tbsp unsalted butter (42 g)  
-- 3 Tbsp all-purpose flour (24 g)  
-- 2 cups beef stock (480 ml)  
-- 1 Tbsp soy sauce  
-- 1 tsp Worcestershire sauce  
-- ½ tsp onion powder  
-- ½ tsp garlic powder  
-- Fresh black pepper to taste  
+- Unsalted butter: **3 Tbsp (42 g)**
+- All-purpose flour: **3 Tbsp (24 g)**
+- Beef stock: **2 cups (480 ml)**
+- Soy sauce: **1 Tbsp (15 ml)**
+- Worcestershire sauce: **1 tsp (5 ml)**
+- Onion powder: **½ tsp (1–2 g)**
+- Garlic powder: **½ tsp (1–2 g)**
+- Black pepper: to taste
 
 ### To Serve
-- 4 eggs, crispy fried
+- Eggs: **4**, crispy-fried  
+- Optional: sliced scallions, furikake, togarashi
 
 ---
 
-## Instructions
+## Method
 
-1. **Cook the Rice**  
-    Start rice in the cooker so it’s ready when the rest is done.  
+### 1. Cook the Rice
+1. Start rice in the cooker so it finishes with everything else.
 
-2. **Make the Gravy**  
+### 2. Make the Gravy
+1. Melt butter in a saucepan over medium heat.  
+2. Whisk in flour; cook **2–3 min** until lightly golden and nutty.  
+3. Slowly whisk in beef stock until smooth.  
+4. Add soy, Worcestershire, onion powder, garlic powder, black pepper.  
+5. Simmer until thick and glossy; adjust seasoning.
 
-    1. Melt butter in a saucepan over medium heat.  
-    1. Stir in flour; cook 2–3 minutes until golden and nutty.  
-    1. Gradually whisk in beef stock.  
-    1. Add soy, Worcestershire, onion powder, garlic powder, and pepper.  
-    1. Simmer until thick and glossy. Adjust seasoning.
+### 3. Cook the Patties
+1. Grill hot and fast.  
+2. Pull at **150°F (66°C)**.
 
-3. **Grill burgers**  
-    Pull at 150.
+### 4. Fry the Eggs
+1. Fry eggs with crispy edges.
 
-4. **Fry the Eggs**  
-    Cook crispy-fried.
-
-5. **Assemble**  
-    In each bowl: rice → burger → ladle of gravy → fried egg.  
-    Garnish with scallions and furikake or togarashi.  
-
----
+### 5. Assemble
+1. In each bowl: rice → burger → ladle of gravy → fried egg.  
+2. Garnish with scallions and furikake or togarashi.
