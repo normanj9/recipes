@@ -1,6 +1,6 @@
-# Malasadas (Hawaiian Donuts)
+# Malasadas
 
-_Adapted from the Malasadas (Hawaiian Donuts) recipe on Hummingbird High._
+_Adapted from the Malasadas recipe on Hummingbird High._
 
 ## Ingredients
 
