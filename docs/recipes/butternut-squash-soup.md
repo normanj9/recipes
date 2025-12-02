@@ -1,4 +1,4 @@
-# Classic Butternut Squash Soup
+# Butternut Squash Soup
 
 _Adapted from the Classic Butternut Squash Soup recipe on Serious Eats._
 
@@ -9,7 +9,7 @@ _Adapted from the Classic Butternut Squash Soup recipe on Serious Eats._
 - 1 tablespoon (14g) unsalted butter
 - 1 large onion, roughly chopped (about 8 ounces; 225g)
 - 2 medium cloves garlic, roughly chopped
-- 1 large butternut squash (about 3 pounds; 1.4kg), peeled, seeded, and cut into 1-inch chunkszz
+- 1 large butternut squash (about 3 pounds; 1.4kg), peeled, seeded, and cut into 1-inch chunks
 - 1 large carrot, peeled and cut into 1-inch chunks
 - 1 celery rib, cut into 1-inch chunks
 
