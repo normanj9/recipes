@@ -7,7 +7,7 @@ _Adapted from the Malasadas recipe on Hummingbird High._
 ### For the Malasada Dough  
 - 2 cups (255 g) bread flour, plus more for assembly  
 - 1 teaspoon granulated sugar  
-- 1 (0.25-ounce) packet instant yeast  
+- 7g instant yeast  
 - ½ teaspoon kosher salt  
 - ¾ cup (170 g) whole milk, warmed to 120–130 °F  
 - 1 large egg, at room temperature  
@@ -35,12 +35,12 @@ _Adapted from the Malasadas recipe on Hummingbird High._
 ### 1. Make the Dough & Pastry Cream (Day 1)  
 1. In a stand mixer fitted with a dough hook, combine the flour, 1 tsp sugar, yeast, and salt. Stir briefly to combine, then press a well in the center.  
 2. In a separate liquid measuring cup, whisk together the warm milk, egg, egg yolk, and melted butter.  
-3. Pour the wet ingredients into the flour well. Knead on medium-low for about 10 minutes (using a rubber spatula to scrape down the bowl), until the dough is smooth and elastic; dough will be sticky and thick.  
+3. Pour the wet ingredients into the flour well. Knead on medium-low for 10 minutes (using a rubber spatula or plastic bench scraper to scrape down the bowl). Dough will be sticky, like a thick batter.  
 4. Cover with plastic wrap and refrigerate overnight.  
 
 5. Meanwhile, make the pastry cream: In a medium saucepan, whisk the ¼ cup (≈50 g) sugar with the milk. Heat over medium-low, whisking until milk steams (2–3 min), then reduce heat to low.  
-6. In a bowl, whisk together the egg, cornstarch, and remaining 2 Tablespoons (≈25 g) sugar. Temper by slowly adding about ¼ cup of the hot milk mixture while whisking continuously.  
-7. Pour the tempered egg mixture back into the saucepan with the rest of the hot milk mixture. Return to medium heat and cook, whisking constantly, until it boils. Immediately remove from heat.  
+6. In a bowl, whisk together the egg, salt, cornstarch, and remaining 2 Tablespoons (≈25 g) sugar. Temper by slowly adding about ¼ cup of the hot milk mixture while whisking continuously.  
+7. Pour the tempered egg mixture back into the saucepan with the rest of the hot milk mixture. Return to medium heat and cook, whisking constantly, until it "boils". Immediately remove from heat.  
 8. Add the butter, passion fruit puree, and vanilla. Whisk until smooth.  
 9. Strain the cream through a fine-mesh sieve into an airtight container. Press plastic wrap directly on its surface to prevent a skin from forming. Chill overnight in the refrigerator.  
 
