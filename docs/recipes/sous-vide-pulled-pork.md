@@ -1,6 +1,6 @@
 # Sous Vide Chile-Smoked Pulled Pork (Country-Style Ribs)
 
-_Adapted from a personal sous vide workflow._
+_A personal sous vide workflow._
 
 ## Ingredients
 
