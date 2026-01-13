@@ -1,4 +1,4 @@
-# Stir-Fried Almond Chicken
+# Almond Chicken
 
 ## Ingredients
 
