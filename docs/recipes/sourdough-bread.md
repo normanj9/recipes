@@ -31,7 +31,7 @@ _Adapted from KingArthurBaking.com._
 ### 3. Shape & Final Rise
 9. Remove the dough from the refrigerator and allow it to warm at room temperature for **30–60 minutes**.
 10. Turn the dough out onto a lightly floured surface and gently shape into a round and plop into a banneton.
-11. Cover and let the dough rise **3 hours**.
+11. Cover and let the dough rise **4 hours**.
 
 ### 4. Bake
 12. With a rack positioned in the middle, preheat the oven to **500°F** one hour before baking.
