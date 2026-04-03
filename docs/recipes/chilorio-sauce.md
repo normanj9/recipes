@@ -1,6 +1,6 @@
 # Chilorio Sauce
 
-_Adapted from the Chilorio recipe in El Noroeste._
+_Adapted from the Chilorio recipe in La Mesa Mexicana._
 
 ## Ingredients
 
