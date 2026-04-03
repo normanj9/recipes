@@ -11,7 +11,7 @@ Template you will follow exactly (structure):
 
 # Recipe Title
 
-_Adapted from the {name} recipe on {website}._
+_Adapted from the {name} recipe on {website/book}._
 
 ## Ingredients
 
