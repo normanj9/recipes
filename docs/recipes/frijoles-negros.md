@@ -10,7 +10,7 @@ _Adapted from the Frijoles Negros recipe in La Mesa Mexicana._
 - ½ white onion
 - 1 bay leaf
 - Pinch of dried epazote (optional)
-- 1 tablespoon table salt
+- 2 tablespoons kosher salt
 
 ---
 
