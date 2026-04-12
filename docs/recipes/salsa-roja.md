@@ -10,7 +10,7 @@ _Makes about 1 cup. Enough for 10 tacos._
 
 - 4 large tomatoes, chopped
 - ½ white onion, roughly chopped
-- 3 dried arbol or pequin chillies
+- 6 dried arbol or pequin chillies
 - ½ garlic clove, finely chopped
 - 2 teaspoons Diamond Crystal kosher salt
 - 1 small bunch (1 oz) coriander (cilantro) leaves, finely chopped
