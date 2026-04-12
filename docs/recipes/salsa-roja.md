@@ -8,7 +8,7 @@ _Makes about 1 cup. Enough for 10 tacos._
 
 ### Salsa
 
-- 4 large tomatoes, halved
+- 4 large hothouse (beefsteak) tomatoes, halved
 - ½ white onion, cut into wedges
 - 6 dried arbol chillies
 - ½ garlic clove, skin on
@@ -34,8 +34,4 @@ Using a blender or molcajete, blend or pound the charred tomato and onion with t
 
 ### 4. Cook
 
-Heat the oil in a small saucepan over medium-high heat. Add the salsa and cook, stirring, for 7 minutes, or until heated through and slightly reduced. The salsa is ready when the colour changes to a dark orange. Set aside to cool before storing in an airtight container in the fridge for up to 1 week.
-
-### 5. Serve
-
-Spoon over tacos and finish with fresh coriander (cilantro) leaves.
+Heat​​​​​​​​​​​​​​​​
