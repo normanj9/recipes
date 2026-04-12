@@ -8,13 +8,13 @@ _Makes about 1 cup. Enough for 10 tacos._
 
 ### Salsa
 
-- 4 large tomatoes, chopped
-- ½ white onion, roughly chopped
-- 6 dried arbol or pequin chillies
-- ½ garlic clove, finely chopped
+- 4 large tomatoes, halved
+- ½ white onion, cut into wedges
+- 6 dried arbol chillies
+- ½ garlic clove, skin on
 - 2 teaspoons Diamond Crystal kosher salt
-- 1 small bunch (1 oz) coriander (cilantro) leaves, finely chopped
-- 3 tablespoons vegetable oil (if making a cooked salsa)
+- 3 tablespoons vegetable oil
+- Fresh coriander (cilantro) leaves, to serve
 
 ---
 
@@ -22,7 +22,7 @@ _Makes about 1 cup. Enough for 10 tacos._
 
 ### 1. Char
 
-Heat a dry comal or heavy-based frying pan over medium-high heat. Add the tomato and onion and cook, stirring frequently, for about 7 minutes, until slightly charred.
+Set oven to high broil. Place tomatoes cut side up, onion wedges, and garlic clove (skin on) on a baking sheet. Broil for 10–15 minutes until blackened in spots, adding the garlic in the last few minutes to prevent burning. Peel the garlic before blending.
 
 ### 2. Rehydrate Chillies
 
@@ -30,12 +30,12 @@ Place the dried chillies in a small saucepan. Cover with 1 cup water and bring t
 
 ### 3. Blend
 
-Using a blender or molcajete, blend or pound the charred tomato and onion with the garlic, salt, chillies and 1 teaspoon of their cooking water, until you have a chunky salsa. Stir through the coriander and transfer to a serving bowl.
+Using a blender or molcajete, blend or pound the charred tomato and onion with the peeled garlic, salt, chillies and 1 teaspoon of their cooking water, until you have a chunky salsa.
 
-### 4. Cook (recommended for storage)
+### 4. Cook
 
-Heat the oil in a small saucepan over medium-high heat. Add the salsa and cook, stirring, for 7 minutes, or until heated through and slightly reduced. The salsa is ready when the colour changes to a dark orange. Set aside to cool before serving.
+Heat the oil in a small saucepan over medium-high heat. Add the salsa and cook, stirring, for 7 minutes, or until heated through and slightly reduced. The salsa is ready when the colour changes to a dark orange. Set aside to cool before storing in an airtight container in the fridge for up to 1 week.
 
 ### 5. Serve
 
-Serve fresh on the day it's made, or if cooked, store in an airtight container in the fridge for up to 1 week.
+Spoon over tacos and finish with fresh coriander (cilantro) leaves.
