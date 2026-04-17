@@ -14,7 +14,7 @@ _Adapted from the Arroz Rojo recipe in La Mesa Mexicana._
 - 2 large roma (plum) tomatoes, roughly chopped
 - ½ small white onion, roughly chopped
 - 90g (⅓ cup) tomato paste
-- 1½ teaspoons table salt
+- 2 teaspoons kosher salt
 - 10g BTB chicken paste
 
 ---
