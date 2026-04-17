@@ -6,7 +6,7 @@ _Adapted from the Frijoles Negros Refritos recipe in La Mesa Mexicana._
 
 ### Base
 
-- 2 tablespoons vegetable oil
+- 2 tablespoons lard
 - ½ white or brown onion, finely chopped
 - 3 plum tomatoes, grated on a box grater
 
@@ -21,7 +21,7 @@ _Adapted from the Frijoles Negros Refritos recipe in La Mesa Mexicana._
 
 ### 1. Sofrito
 
-Heat the oil in a large frying pan over medium heat. Add the onion and tomato and cook, stirring occasionally, for about 8 minutes, until the tomato starts to collapse and the onion is soft.
+Heat the lard in a large frying pan over medium heat. Add the onion and tomato and cook, stirring occasionally, for about 8 minutes, until the tomato starts to collapse and the onion is soft.
 
 ### 2. Mash
 
