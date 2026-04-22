@@ -1,6 +1,6 @@
 # Frijoles Negros
 
-_Adapted from the Frijoles Negros recipe in La Mesa Mexicana._
+*Adapted from the Frijoles Negros recipe in La Mesa Mexicana.*
 
 ## Ingredients
 
@@ -9,8 +9,8 @@ _Adapted from the Frijoles Negros recipe in La Mesa Mexicana._
 - 250g dried black beans
 - ½ white onion
 - 1 bay leaf
-- Pinch of dried epazote (optional)
-- 2 tablespoons kosher salt
+- Pinch of dried epazote
+- 1 tablespoon kosher salt
 
 ---
 
@@ -28,8 +28,8 @@ The next day, drain and rinse the beans, then place in a large saucepan with the
 
 ### 3. Simmer
 
-Boil the beans for 30 minutes, then reduce the heat to medium, add the salt and simmer for a further 40 minutes, or until the beans are soft and cooked through. If the pan starts to dry out during cooking, add up to 1 cup more water.
+Boil the beans for 30 minutes, then reduce the heat to medium, add the salt and simmer for a further 40 minutes, or until the beans are soft and cooked through — check for doneness starting at 10 minutes, as fresher beans (e.g. Rancho Gordo) may finish significantly earlier. If the pan starts to dry out during cooking, add up to 1 cup more water.
 
 ### 4. Serve
 
-Drain the beans and reserve the cooking water if you need it for other recipes. Discard the bay leaf and onion. Transfer the frijoles to a bowl and serve, or add to your dish of choice. Any leftovers will keep in an airtight container in the fridge for up to 5 days.
+Discard the bay leaf and onion. Serve immediately, or store the beans in their cooking liquid in an airtight container in the fridge for up to 5 days.
