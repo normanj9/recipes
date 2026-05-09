@@ -12,7 +12,7 @@
 - ½ white onion
 - 2 bay leaves
 - 2 tablespoons lard
-- 1 tablespoon kosher salt
+- 1 teaspoon kosher salt
 
 ---
 
