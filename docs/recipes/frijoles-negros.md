@@ -1,35 +1,43 @@
-# Frijoles Negros
+# Frijoles Negros — RG beans
 
-*Adapted from the Frijoles Negros recipe in La Mesa Mexicana.*
+*Adapted from the Parsons Method recipe on the Rancho Gordo website.*
 
 ## Ingredients
 
 ### Beans
 
-- 250g dried black beans
+- 454g (1 lb) Rancho Gordo black beans, dry
+- 6 cups water, plus more hot water as needed
+- 4 garlic cloves, smashed
 - ½ white onion
-- 1 bay leaf
-- Pinch of dried epazote
+- 2 bay leaves
+- 2 tablespoons lard
 - 1 tablespoon kosher salt
 
 ---
 
 ## Method
 
-### 1. Soak
+### 1. Preheat
 
-Rinse the beans and remove any grit or small pebbles, then place in a large bowl and cover with water. Set aside to soak overnight.
+Preheat oven to 350°F.
 
-> **Quick soak alternative:** Rinse the beans, cover with cold water in a pot, bring to a boil for 2 minutes, then kill the heat and let sit covered for 1 hour. Drain and rinse, then proceed with the recipe.
+### 2. Combine
 
-### 2. Cook
-
-The next day, drain and rinse the beans, then place in a large saucepan with the onion, bay leaf and epazote, if using. Pour in 1.5 litres (6 cups) water and bring to the boil over high heat.
+Add beans, water, garlic, onion, bay leaves, and lard to a Dutch oven.
 
 ### 3. Simmer
 
-Boil the beans for 30 minutes, then reduce the heat to medium, add the salt and simmer for a further 40 minutes, or until the beans are soft and cooked through — check for doneness starting at 10 minutes, as fresher beans (e.g. Rancho Gordo) may finish significantly earlier. If the pan starts to dry out during cooking, add up to 1 cup more water.
+Bring to a simmer over medium heat and simmer uncovered for 10 minutes.
 
-### 4. Serve
+### 4. Bake
 
-Discard the bay leaf and onion. Serve immediately, or store the beans in their cooking liquid in an airtight container in the fridge for up to 5 days.
+Cover the pot and transfer to the oven. Bake until beans are tender, 1 to 2 hours depending on bean age — check for doneness starting at 45 minutes. Check water level every 30 minutes and add hot water as needed to keep beans submerged.
+
+### 5. Salt
+
+Once beans begin to soften, stir in salt. Do not salt before this point.
+
+### 6. Serve
+
+Taste and adjust salt. Remove onion and bay leaves before serving. Store beans in their cooking liquid.
