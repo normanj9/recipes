@@ -36,7 +36,9 @@ _Original recipe._
 
 ### 4. Freeze
 
-1. Portion into ice cube trays and freeze. Thaw 1–2 cubes per application and season from there per the table below.
+1. Pour paste into a gallon freezer bag. Seal, lay flat on a sheet pan, and spread to an even layer approximately 1/4 inch thick.
+2. Score a 2x2 inch grid into the paste using a bench scraper, pressing firmly through the bag to create clean perforations.
+3. Freeze flat. Once frozen, snap portions as needed — one 2x2 square is a standard 2-cube equivalent.
 
 ## Derivatives
 
