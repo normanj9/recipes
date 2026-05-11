@@ -8,13 +8,13 @@ _Adapted from the Chilorio recipe in La Mesa Mexicana._
 
 - 6 dried guajillo chillies, stemmed and deseeded
 - 1 dried pasilla chilli, stemmed and deseeded
+- ½ teaspoon groubd cumin
 - 2 teaspoons ground cinnamon
-- ½ teaspoon ground cloves
+- ¼ teaspoon ground cloves
 - 2 bay leaves
 - 1 tablespoon dried oregano
 - 2 garlic cloves, crushed
 - ½ teaspoon Diamond Crystal kosher salt
-- Pinch of ground cumin
 - 4 teaspoons white vinegar
 
 ---
