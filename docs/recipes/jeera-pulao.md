@@ -7,7 +7,7 @@
 
 ### Liquid
 - 530ml / 2¼ cups water
-- 6g / 1 tsp Better Than Bouillon paste
+- 12g / 2 tsp Better Than Bouillon paste
 - 3 gelatin ice cubes
 
 ### Aromatics
