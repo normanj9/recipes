@@ -24,7 +24,7 @@
 ### Ground Spices & Finish
 - ¼ tsp turmeric
 - ¼ tsp garam masala (finish only)
-- ½ tsp Diamond Crystal kosher salt
+- 1 tsp Diamond Crystal kosher salt, plus more to taste
 - 20–25 saffron threads
 - 2 tbsp ghee or butter
 
@@ -42,13 +42,13 @@ Heat the ghee in a heavy-bottomed pot or Dutch oven over medium-high heat. Add t
 Reduce heat to medium. Add the cumin seeds, cardamom pods, cloves, and cinnamon directly to the onion remaining in the pot. Stir constantly for 60–90 seconds until the cumin is fragrant and starting to darken. Add the garlic and ground ginger and cook another 60 seconds.
 
 ### 4. Toast the Rice
-Add the drained rice to the pot and stir to coat every grain in the spiced fat. Add the turmeric and ½ tsp Diamond Crystal kosher salt. Toast for 2 minutes, stirring gently.
+Add the drained rice to the pot and stir to coat every grain in the spiced fat. Add the turmeric and 1 tsp Diamond Crystal kosher salt. Toast for 2 minutes, stirring gently.
 
 ### 5. Cook
-Pull 2 tbsp of water into a small bowl, add the saffron threads, and steep for 10 minutes. Pour the remaining water into the pot along with the Better Than Bouillon paste, gelatin ice cubes, and a stir to dissolve. Bring to a boil, then reduce heat to the lowest setting. Drizzle the saffron liquid over the top without stirring it in. Cover tightly with a lid (use foil under the lid if it's not snug) and cook for 12 minutes undisturbed.
+Pull 2 tbsp of water into a small bowl, add the saffron threads, and steep for 10 minutes. Pour the remaining water into the pot along with the Better Than Bouillon paste and gelatin ice cubes and stir to dissolve. Bring to a boil, then reduce heat to the lowest setting. Drizzle the saffron liquid over the top without stirring it in. Cover tightly with a lid (use foil under the lid if it's not snug) and cook for 12 minutes undisturbed.
 
 ### 6. Steam and Rest
 Turn off the heat and let the pot sit covered for 10 minutes. Do not lift the lid.
 
 ### 7. Serve
-Uncover, add the garam masala, and fluff gently with a fork. Taste for salt. Plate and top with the reserved crispy onion.
+Uncover, add the garam masala, and fluff gently with a fork. Taste and adjust salt. Plate and top with the reserved crispy onion.
