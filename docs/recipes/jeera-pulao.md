@@ -7,7 +7,7 @@
 
 ### Liquid
 - 530ml / 2¼ cups water
-- 12g / 2 tsp Better Than Bouillon paste
+- 6g / 1 tsp Better Than Bouillon paste
 - 3 gelatin ice cubes
 
 ### Aromatics
@@ -48,4 +48,7 @@ Add the drained rice to the pot and stir to coat every grain in the spiced fat. 
 Pull 2 tbsp of water into a small bowl, add the saffron threads, and steep for 10 minutes. Pour the remaining water into the pot along with the Better Than Bouillon paste, gelatin ice cubes, and a stir to dissolve. Bring to a boil, then reduce heat to the lowest setting. Drizzle the saffron liquid over the top without stirring it in. Cover tightly with a lid (use foil under the lid if it's not snug) and cook for 12 minutes undisturbed.
 
 ### 6. Steam and Rest
-Turn off the heat and let the pot sit covered for 10 minutes. Do
+Turn off the heat and let the pot sit covered for 10 minutes. Do not lift the lid.
+
+### 7. Serve
+Uncover, add the garam masala, and fluff gently with a fork. Taste for salt. Plate and top with the reserved crispy onion.
