@@ -14,11 +14,8 @@
 
 ## Method
 
-### 1. Mellow the Garlic
-Microplane the garlic directly into the lemon juice and let sit 10 minutes to take the sharp edge off.
+### 1. Combine
+Combine ingredients in a bowl and thin with a couple tablespoons water.
 
-### 2. Combine
-Whisk together the yogurt, garlic-lemon mixture, olive oil, and salt until smooth. Add a couple tablespoons water to thin slightly.
-
-### 3. Bottle
+### 2. Bottle
 Transfer to squeeze bottle and store in fridge.
