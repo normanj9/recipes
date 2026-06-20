@@ -6,14 +6,14 @@ _Original recipe._
 
 ### Chiles
 
-- 6 dried guajillo chiles
-- 6 dried pasilla chiles
+- 12 dried guajillo chiles
+- 12 dried pasilla chiles
 
 ### Aromatics & Seasoning
 
-- 9 cloves garlic, unpeeled
-- 1 tbsp Mexican oregano
-- 1 tsp Diamond Crystal kosher salt
+- 18 cloves garlic, unpeeled
+- 2 tbsp Mexican oregano
+- 2 tsp Diamond Crystal kosher salt
 - Reserved chile soaking liquid, to consistency
 
 ---
@@ -42,15 +42,13 @@ _Original recipe._
 
 ## Derivatives
 
-| Dish | Adds per 2 cubes base |
-|---|---|
-| Enchilada sauce | Thin with 1 cup chicken stock; simmer 5 min |
-| Chilaquiles | Thin with 3/4 cup stock; add splash lime juice |
-| Chile colorado | Add 1 tsp cumin, 1 tsp vinegar; braise meat directly in sauce |
-| Arroz rojo | 1 cube stirred into rice before adding stock |
-| Frijoles | 1 cube added to pot after beans are cooked through |
-| Tinga | Thin with 1/2 cup stock; add 1 chipotle in adobo |
-| Adobo/marinade | Add 2 tbsp vinegar, 1 tbsp sugar, 2 chipotles in adobo |
-| Chilorio sauce | Use chilorio sauce recipe |
-
-### 5. Serve
+| Dish            | Adds per 2 cubes base                                         |
+| --------------- | ------------------------------------------------------------- |
+| Enchilada sauce | Thin with 1 cup chicken stock; simmer 5 min                   |
+| Chilaquiles     | Thin with 3/4 cup stock; add splash lime juice                |
+| Chile colorado  | Add 1 tsp cumin, 1 tsp vinegar; braise meat directly in sauce |
+| Arroz rojo      | 1 cube stirred into rice before adding stock                  |
+| Frijoles        | 1 cube added to pot after beans are cooked through            |
+| Tinga           | Thin with 1/2 cup stock; add 1 chipotle in adobo              |
+| Adobo/marinade  | Add 2 tbsp vinegar, 1 tbsp sugar, 2 chipotles in adobo        |
+| Chilorio sauce  | Use chilorio sauce recipe                                     |
