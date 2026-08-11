@@ -10,7 +10,7 @@ _Serves 2._
 - Large egg: 1
 - Parmigiano Reggiano, finely grated: 1.5 oz (45 g), plus more for serving
 - Freshly cracked black pepper: to taste, plus more for serving
-- Kosher salt: for pasta water
+- Salt: for pasta water
 
 ---
 
