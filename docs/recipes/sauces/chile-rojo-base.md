@@ -44,7 +44,7 @@ _Original recipe._
 
 | Dish            | Adds per 2 cubes base                                         |
 | --------------- | ------------------------------------------------------------- |
-| Enchilada sauce | [Enchilada sauce](../enchilada-sauce.md)            |
+| Enchilada sauce | [Enchilada sauce](/docs/recipes/sauces/enchilada-sauce.md)            |
 | Chilaquiles     | Thin with 3/4 cup stock; add splash lime juice                |
 | Chile colorado  | Add 1 tsp cumin, 1 tsp vinegar; braise meat directly in sauce |
 | Arroz rojo      | 1 cube stirred into rice before adding stock                  |
