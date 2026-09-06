@@ -28,4 +28,13 @@ Whisk in the Chile Rojo Base and tomato paste. Cook, stirring, 1-2 minutes until
 Stir in the cumin and toast 30 seconds.
 
 ### 4. Whisk in Stock
-Add the stock a splash at a time, whisking out
+Add the stock a splash at a time, whisking out lumps before adding more.
+
+### 5. Simmer
+Bring to a gentle simmer. Cook, whisking occasionally, 8-10 minutes, until it coats the back of a spoon and no longer tastes of raw flour.
+
+### 6. Season
+Taste and adjust salt.
+
+### 7. Serve
+Use immediately over enchiladas, or cool and refrigerate up to a week.
