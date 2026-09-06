@@ -13,7 +13,7 @@ _Adapted from the Enchilada Sauce derivative in the Chile Rojo Base recipe on Je
 - 1 tbsp (16g) tomato paste
 - 1/2 tsp (1g) ground cumin
 - Kosher salt, to taste
-
+- Lime/ACV, to taste
 ---
 
 ## Method
@@ -34,7 +34,7 @@ Add the stock a splash at a time, whisking out lumps before adding more.
 Bring to a gentle simmer. Cook, whisking occasionally, 8-10 minutes, until it coats the back of a spoon and no longer tastes of raw flour.
 
 ### 6. Season
-Taste and adjust salt.
+Add acid (start with 1/2 t) and taste for seasoning.
 
 ### 7. Serve
 Use immediately over enchiladas, or cool and refrigerate up to a week.
