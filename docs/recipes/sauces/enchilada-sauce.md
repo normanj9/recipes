@@ -4,11 +4,11 @@ _Adapted from the Enchilada Sauce derivative in the Chile Rojo Base recipe on Je
 ## Ingredients
 
 ### Base & Liquid
-- 4 cubes (2 squares) Chile Rojo Base — about 2 tbsp / 32g
+- 4 cubes (2 squares) Chile Rojo Base, thawed — about 2 tbsp / 32g
 - 1 cup (237 mL) chicken stock
 
 ### Roux & Enrichment
-- 1 tbsp (14g) lard
+- 1.5 tbsp (21g) lard
 - 1 tbsp (8g) all-purpose flour
 - 1 tbsp (16g) tomato paste
 - 1/2 tsp (1g) ground cumin
