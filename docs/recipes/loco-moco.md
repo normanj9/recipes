@@ -7,7 +7,7 @@
 - Beef patties: **4**
 
 ### Gravy
-- Unsalted butter: **3 Tbsp**
+- Butter: **3 Tbsp**
 - All-purpose flour: **3 Tbsp**
 - Beef stock: **2 cups**
 - Soy sauce: **1 Tbsp**
@@ -32,7 +32,7 @@
 2. Whisk in flour; cook **2–3 min** until lightly golden and nutty.  
 3. Slowly whisk in beef stock until smooth.  
 4. Add soy, Worcestershire, onion powder, garlic powder, black pepper.  
-5. Simmer until thick and glossy; adjust seasoning.
+5. Simmer until thick and glossy; adjust seasoning — the butter, stock, and soy sauce are all already salted, so taste before adding any extra salt.
 
 ### 3. Cook the Patties
 1. Grill hot and fast.  

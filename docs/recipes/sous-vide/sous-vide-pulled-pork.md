@@ -13,7 +13,7 @@ _A personal sous vide workflow._
 - Dried árbol chile (optional, for heat): ½ whole
 
 ### Seasoning & Aromatics
-- Kosher salt (Diamond Crystal): 10–12 g / ~2 tsp (1–1.25% by weight)  
+- Salt: 10–12 g / ~2 tsp (1–1.25% by weight)  
 - Frozen minced garlic: 6–8 g / 1–1½ tsp  
 - Chile powder (from above): 4–6 g / 1–1½ tsp  
 - Liquid smoke: 1–2 g / ¼–½ tsp  

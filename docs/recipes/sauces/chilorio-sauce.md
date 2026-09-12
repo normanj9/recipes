@@ -14,7 +14,7 @@ _Adapted from the Chilorio recipe in La Mesa Mexicana._
 - 2 bay leaves
 - 1 tablespoon dried oregano
 - 2 garlic cloves, crushed
-- ½ teaspoon Diamond Crystal kosher salt
+- ½ teaspoon salt
 - 4 teaspoons white vinegar
 
 ---

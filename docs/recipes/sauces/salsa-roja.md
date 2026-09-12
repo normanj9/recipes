@@ -12,7 +12,7 @@ _Makes about 1 cup. Enough for 10 tacos._
 - ½ white onion, cut into wedges
 - 6 dried arbol chillies
 - ½ garlic clove, skin on
-- 2 teaspoons Diamond Crystal kosher salt
+- 2 teaspoons salt
 - 3 tablespoons vegetable oil
 - Fresh coriander (cilantro) leaves, to serve
 
