@@ -1,13 +1,9 @@
-name: Deploy MkDocs to GitHub Pages
+name: CI
 on:
-  push:
+  pull_request:
     branches: [ main ]
-permissions:
-  contents: write
-  pages: write
-  id-token: write
 jobs:
-  build-deploy:
+  build-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,8 +20,14 @@ jobs:
       - name: Build site
         run: mkdocs build
 
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
+  pre-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          python-version: '3.x'
+
+      - uses: pre-commit/action@v3.0.1
