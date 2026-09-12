@@ -4,13 +4,13 @@
 
 ### Steak
 - Ribeye steaks, ~1 inch thick (as many as needed)
-- Diamond Crystal kosher salt
+- Salt
 
 ### Sear
 - Avocado or grapeseed oil — ~1 tsp (5ml) per batch
 
 ### Optional Browned Butter Finish
-- Unsalted butter — ~2 tbsp per steak
+- Butter — ~2 tbsp per steak
 - 1–2 garlic cloves, smashed
 - Fresh rosemary
 - Flaky finishing salt
@@ -20,7 +20,7 @@
 ## Method
 
 ### 1. Dry Brine
-Season steaks generously with Diamond Crystal kosher salt on all sides. Place uncovered on a rack in the fridge for a minimum of 2 hours, ideally overnight.
+Season steaks generously with salt on all sides. Place uncovered on a rack in the fridge for a minimum of 2 hours, ideally overnight.
 
 ### 2. Sous Vide
 Bag steaks and cook at 133°F using the Breville Joule guide for time based on thickness. For ~1 inch ribeyes this is typically 1–1.5 hours.

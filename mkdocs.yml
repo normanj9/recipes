@@ -26,6 +26,51 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+nav:
+  - Home: index.md
+  - recipes/gennaros-chicken.md
+  - recipes/lahmacun.md
+  - recipes/loco-moco.md
+  - recipes/mapo-tofu.md
+  - recipes/pad-kra-pao.md
+  - recipes/sourdough-bread.md
+  - recipes/sourdough-feeding-schedule.md
+  - recipes/thai-red-curry.md
+  - Pasta:
+      - recipes/pasta/aglio-e-olio.md
+      - recipes/pasta/carbonara.md
+      - recipes/pasta/tomato-sauce.md
+  - Pizza:
+      - recipes/pizza/easy-pizza-dough.md
+      - recipes/pizza/no-knead-pan-pizza.md
+      - recipes/pizza/sourdough-pizza.md
+  - Sauces:
+      - recipes/sauces/chile-rojo-base.md
+      - recipes/sauces/chilorio-sauce.md
+      - recipes/sauces/enchilada-sauce.md
+      - recipes/sauces/garlic-yogurt-sauce.md
+      - recipes/sauces/salsa-roja.md
+  - Sous Vide:
+      - recipes/sous-vide/sous-vide-japanese-spring-egg.md
+      - recipes/sous-vide/sous-vide-pork-ribs.md
+      - recipes/sous-vide/sous-vide-pulled-pork.md
+      - recipes/sous-vide/sous-vide-ribeye.md
+  - Veggies:
+      - recipes/veggies/roasted-brocolli.md
+      - recipes/veggies/roasted-cabbage.md
+  - WIP:
+      - recipes/WIP/almond-chicken.md
+      - recipes/WIP/arroz-rojo.md
+      - recipes/WIP/chickpea-curry.md
+      - recipes/WIP/corn-bread-loaf.md
+      - recipes/WIP/fish-fragrant-shrimp.md
+      - recipes/WIP/green-chile-braised-chicken.md
+      - recipes/WIP/jeera-pulao.md
+      - recipes/WIP/malasadas.md
+      - recipes/WIP/quinoa-bop-slop.md
+      - recipes/WIP/simple-cassoulet.md
+      - recipes/WIP/taco-salads.md
+
 markdown_extensions:
   - tables
   - attr_list

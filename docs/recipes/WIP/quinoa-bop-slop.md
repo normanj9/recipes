@@ -7,7 +7,7 @@ _Adapted from a bibimbap bowl, reworked into weekly meal prep with quinoa in pla
 - 340g (2 cups) white quinoa, rinsed
 - 15ml (1 tbsp) neutral oil, for toasting
 - 680ml (2¾ cups) chicken or beef stock
-- 1/2 tsp Diamond Crystal kosher salt
+- 1/2 tsp salt
 
 ### Beef
 - 680g (1.5 lb) thin-sliced beef (ribeye or sirloin style)
@@ -24,13 +24,13 @@ _Adapted from a bibimbap bowl, reworked into weekly meal prep with quinoa in pla
 ### Bean Sprouts (Kongnamul)
 - 340g (12 oz) fresh bean sprouts
 - 10ml (2 tsp) toasted sesame oil
-- 1/2 tsp Diamond Crystal kosher salt
+- 1/2 tsp salt
 - 1 scallion, thinly sliced
 
 ### Carrot
 - 3 large carrots, julienned (~300g)
 - 10ml (2 tsp) neutral oil
-- 1/4 tsp Diamond Crystal kosher salt
+- 1/4 tsp salt
 
 ### Mushroom
 - 227g (8 oz) shiitake mushrooms, stemmed and sliced

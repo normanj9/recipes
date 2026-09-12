@@ -13,7 +13,7 @@ _Original recipe._
 
 - 18 cloves garlic, unpeeled
 - 2 tbsp Mexican oregano
-- 2 tsp Diamond Crystal kosher salt
+- 2 tsp salt
 - Reserved chile soaking liquid, to consistency
 
 ---
@@ -44,11 +44,11 @@ _Original recipe._
 
 | Dish            | Adds per 2 cubes base                                         |
 | --------------- | ------------------------------------------------------------- |
-| Enchilada sauce | [Enchilada sauce](/docs/recipes/sauces/enchilada-sauce.md)            |
+| Enchilada sauce | See [Enchilada sauce](enchilada-sauce.md)                      |
 | Chilaquiles     | Thin with 3/4 cup stock; add splash lime juice                |
 | Chile colorado  | Add 1 tsp cumin, 1 tsp vinegar; braise meat directly in sauce |
-| Arroz rojo      | 1 cube stirred into rice before adding stock                  |
+| Arroz rojo      | 1 cube stirred into rice before adding stock — see [Arroz rojo](../WIP/arroz-rojo.md) |
 | Frijoles        | 1 cube added to pot after beans are cooked through            |
 | Tinga           | Thin with 1/2 cup stock; add 1 chipotle in adobo              |
 | Adobo/marinade  | Add 2 tbsp vinegar, 1 tbsp sugar, 2 chipotles in adobo        |
-| Chilorio sauce  | Use chilorio sauce recipe                                     |
+| Chilorio sauce  | See [Chilorio sauce](chilorio-sauce.md)                        |

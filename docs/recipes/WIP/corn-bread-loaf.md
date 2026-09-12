@@ -8,7 +8,7 @@ _Adapted from the Skillet Cornbread recipe, converted for a 9x5-inch loaf pan._
 - 120g / 1 cup all-purpose flour (King Arthur)
 - 6g / 1 tsp baking powder
 - 3g / ½ tsp baking soda
-- 6g / 1 tsp Diamond Crystal kosher salt
+- 6g / 1 tsp salt
 - 12g / 1 tbsp sugar _(optional — skip entirely for fully savory)_
 
 ### Wet

@@ -9,7 +9,7 @@ _Adapted from KingArthurBaking.com._
 - Ripe (fed) sourdough starter: 1 cup (227 g)  
 - Lukewarm water: 1¾ cups (397 g)  
 - Bread flour: 5 cups (600 g)  
-- Table salt: 1 tablespoon (18 g)  
+- Salt: 2 tablespoons (18 g)  
 - Diastatic malt powder (optional): 2 teaspoons  
 
 ---

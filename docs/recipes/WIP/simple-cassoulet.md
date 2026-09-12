@@ -21,7 +21,7 @@
 - Bay leaf: 1 (if you have it)
 
 ### Seasoning
-- Diamond Crystal kosher salt: to taste
+- Salt: to taste
 - Black pepper: to taste
 
 ---

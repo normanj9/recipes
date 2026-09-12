@@ -9,7 +9,7 @@ _Adapted from the King Arthur Baking recipe on kingarthurbaking.com._
 - 1 cup (227 g) sourdough starter, unfed/discard
 - 1/2 cup plus 2 tablespoons to 3/4 cup (141 g to 170 g) water, lukewarm
 - 2 1/2 cups (300 g) all-purpose flour
-- 1 teaspoon table salt
+- 2 teaspoons salt (6 g)
 - 1/2 teaspoon instant yeast or active dry yeast
 - 4 teaspoons pizza dough flavor, optional
 

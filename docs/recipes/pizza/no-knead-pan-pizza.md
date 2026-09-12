@@ -10,7 +10,7 @@ _Adapted from the No-Knead Pan Pizza recipe on King Arthur Baking._
 - 1 1/2 cups plus 2 tablespoons (202 g) King Arthur Pizza Flour Blend  
 - 1 tablespoon King Arthur Pizza Dough Flavor, optional  
 - 1 teaspoon instant yeast  
-- 3/4 teaspoon table salt  
+- 1½ teaspoons salt (4.5 g)  
 
 ### Topping
 - 8 ounces (227 g) tomatoes in purée, crushed  

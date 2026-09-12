@@ -3,7 +3,7 @@
 ## Ingredients
 - Broccoli, cut into florets
 - Neutral oil (enough to coat)
-- Diamond Crystal kosher salt
+- Salt
 - Black pepper
 
 ---
