@@ -15,7 +15,7 @@ _Adapted from the Arroz Rojo recipe in La Mesa Mexicana._
 - ½ small white onion, roughly chopped
 - 85g (3 oz / ½ small can) tomato paste
 - 10g Better Than Bouillon chicken base
-- 1 teaspoon Diamond Crystal kosher salt
+- 1 teaspoon salt
 - Water, as needed to reach 3 cups total blended liquid
 
 ---
@@ -41,3 +41,12 @@ _Adapted from the Arroz Rojo recipe in La Mesa Mexicana._
 ### 4. Rest and Serve
 1. Remove from heat and rest, lid on, for 5 minutes.
 2. Fluff with a fork and serve. Leftovers keep in an airtight container in the fridge for 3 days.
+
+## Variation: Basmati Rice
+
+Swap in 1½ cups (285g) basmati rice for the long-grain white rice. Two adjustments follow from the swap:
+
+- Increase the salt in the tomato mixture to 1½ teaspoons — basmati absorbs the liquid less readily, so the sauce needs to carry more seasoning per cup of rice.
+- Cut the covered simmer (step 3.3) to 20 minutes instead of 25 — basmati cooks faster than long-grain white rice.
+
+Everything else (toasting, resting, serranos) stays the same.
