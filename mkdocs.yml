@@ -23,6 +23,9 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - tables
   - attr_list
