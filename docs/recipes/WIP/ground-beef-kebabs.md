@@ -9,8 +9,7 @@ _Adapted from the Easy Oven Baked Ground Beef Kebabs recipe on Explore Cook Eat.
 - 60 g / ¼ cup grated yellow onion, squeezed dry in a towel
 - 10 g / ¼ cup finely chopped flat-leaf parsley
 - 6 g / 2 cloves garlic, grated
-- 4 g / 2 tsp smoked paprika
-- 1 g / ¼ tsp chipotle powder
+- 5 g / 2½ tsp smoked paprika
 - 2 g / 1 tsp ground cumin
 - 2 g / 1 tsp ground coriander
 - 2 g / 1 tsp freshly ground black pepper
@@ -32,7 +31,7 @@ _Adapted from the Easy Oven Baked Ground Beef Kebabs recipe on Explore Cook Eat.
 Set a rack in the upper third of the oven and preheat to 425°F / 220°C. Line a rimmed sheet pan with foil and set a wire rack on top. Put 4 flat metal skewers in the fridge to chill.
 
 ### 2. Mix the meat
-In a large bowl, combine the onion, parsley, garlic, smoked paprika, chipotle powder, cumin, coriander, black pepper, and salt. Add the beef and knead by hand for about 2 minutes, until the mixture turns tacky and sticks to your hand. If you have time, chill it for 10 minutes while the oven heats.
+In a large bowl, combine the onion, parsley, garlic, smoked paprika, cumin, coriander, black pepper, and salt. Add the beef and knead by hand for about 2 minutes, until the mixture turns tacky and sticks to your hand. If you have time, chill it for 10 minutes while the oven heats.
 
 ### 3. Shape the kebabs
 Divide the meat into 4 portions of about 115 g each. With wet hands, press each portion firmly onto a chilled skewer in an even log about 7 inches long. Press light ridges along the length with your fingers.
