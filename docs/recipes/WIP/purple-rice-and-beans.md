@@ -31,13 +31,13 @@ _An original recipe, built for weekly lunch prep in the rice cooker._
 ### 1. Load the Rice Cooker
 Rinse the white and black rice together until the water runs mostly clear. Add water to the 3-cup line. With this little black rice, it doesn't need extra water.
 
-For the seasoned version, whisk the stock concentrate, cumin, smoked paprika, and garlic powder into the water, then lay the bay leaves and butter on top. Don't add salt yet: the stock concentrate is well-salted and the butter is salted, so this should be close to fully seasoned already.
+Whisk the stock concentrate, cumin, smoked paprika, and garlic powder into the water, then lay the bay leaves and butter on top. Don't add salt yet: the stock concentrate is well-salted and the butter is salted, so this should be close to fully seasoned already.
 
 ### 2. Cook
 Cook on the regular white rice setting. When it's done, pull out the bay leaves.
 
 ### 3. Fold in the Beans
-Fold the black beans into the hot rice. Taste and add salt only if it needs it. (If you're making the plain version, this is where to salt it, rather than salting each portion at lunch.)
+Fold the black beans into the hot rice. Taste and add salt only if it needs it. Salt the whole batch now rather than salting each portion at lunch.
 
 ### 4. Portion
 Divide into 5 containers.
