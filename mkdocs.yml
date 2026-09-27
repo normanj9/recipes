@@ -36,6 +36,9 @@ nav:
   - recipes/sourdough-bread.md
   - recipes/sourdough-feeding-schedule.md
   - recipes/thai-red-curry.md
+  - Meal Prep:
+      - recipes/meal-prep/quinoa-bop-slop.md
+      - recipes/meal-prep/taco-salads.md
   - Pasta:
       - recipes/pasta/aglio-e-olio.md
       - recipes/pasta/carbonara.md
@@ -70,9 +73,7 @@ nav:
       - recipes/WIP/laab-salads.md
       - recipes/WIP/lavash-pizza.md
       - recipes/WIP/malasadas.md
-      - recipes/WIP/quinoa-bop-slop.md
       - recipes/WIP/simple-cassoulet.md
-      - recipes/WIP/taco-salads.md
 
 markdown_extensions:
   - tables
