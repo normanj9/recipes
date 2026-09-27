@@ -5,11 +5,11 @@ _An original recipe, built for weekly lunch prep in the rice cooker._
 ## Ingredients
 
 ### Rice & Beans
-- 3 rice cooker cups (540ml, about 450g) short grain white rice, with about 2 tbsp removed from each cup and replaced with black rice (about 6 tbsp / 75g black rice total)
-- Water to the rice cooker's 3-cup line, plus 30ml (2 tbsp) extra for the black rice
+- 3 rice cooker cups (540ml, about 450g) short grain white rice, with 1 tbsp removed from each cup and replaced with black rice (3 tbsp / about 35g black rice total)
+- Water to the rice cooker's 3-cup line
 - 425g (15 oz) black beans, canned, drained and rinsed
 
-### Seasoning (to test next time)
+### Seasoning
 - 2 tsp chicken stock concentrate, stirred into the cooking water
 - 1 tsp ground cumin
 - 1 tsp smoked paprika
@@ -20,14 +20,16 @@ _An original recipe, built for weekly lunch prep in the rice cooker._
 
 ### To Serve
 - [Garlic Yogurt Sauce](../sauces/garlic-yogurt-sauce.md)
-- 1 egg per bowl, cooked daily
+- 3 eggs per bowl, made into an omelette daily
+- Butter, for the omelette
+- Salt, for the omelette
 
 ---
 
 ## Method
 
 ### 1. Load the Rice Cooker
-Rinse the white and black rice together until the water runs mostly clear. Add water to the 3-cup line, plus the extra 2 tbsp, since black rice needs a little more water than white.
+Rinse the white and black rice together until the water runs mostly clear. Add water to the 3-cup line. With this little black rice, it doesn't need extra water.
 
 For the seasoned version, whisk the stock concentrate, cumin, smoked paprika, and garlic powder into the water, then lay the bay leaves and butter on top. Don't add salt yet: the stock concentrate is well-salted and the butter is salted, so this should be close to fully seasoned already.
 
@@ -41,4 +43,4 @@ Fold the black beans into the hot rice. Taste and add salt only if it needs it. 
 Divide into 5 containers.
 
 ### 5. Serve
-Microwave a portion until hot, top with an egg, and drizzle with garlic yogurt sauce.
+Beat 3 eggs with a pinch of salt (go light, since the butter is salted), and cook into an omelette in a little butter. Microwave a portion of rice and beans until hot, top with the omelette, and drizzle with garlic yogurt sauce.
