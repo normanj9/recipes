@@ -19,7 +19,7 @@ _An original recipe, built for weekly lunch prep._
 ### Beans & Veg
 - 425g (15 oz) black beans, canned, drained and rinsed
 - 300g (about 2 cups) fire-roasted corn, frozen
-- 170g (6 cups) baby spinach
+- 484g (1 large clamshell) baby spinach
 - 300g (about 2 cups) diced tomato or pico de gallo
 - 170g (6 oz) sliced black olives, canned, drained
 - 1 small red onion (100g), thinly sliced
