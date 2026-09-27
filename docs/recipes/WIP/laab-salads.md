@@ -30,8 +30,8 @@ _Adapted from the Laab Moo recipe on hot-thai-kitchen.com, scaled up and reworke
 - 1 tsp chili flakes
 
 ### Salad Base
-- 280g (about 10 cups) baby spinach
-- 450g (about 1/2 small head) green cabbage, finely shredded
+- 484g (1 large clamshell) baby spinach
+- 300g (about 1/3 small head) green cabbage, finely shredded
 - 1 large English cucumber
 
 ### Herbs (add day-of)
