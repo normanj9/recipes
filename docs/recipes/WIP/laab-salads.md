@@ -1,6 +1,6 @@
 # Laab Salad Meal Prep
 
-_Adapted from the Laab Moo recipe on hot-thai-kitchen.com, scaled up and reworked into a salad for weekly lunch prep._
+_Adapted from the Laab Moo recipe on hot-thai-kitchen.com, scaled up and reworked into a salad for weekly lunch prep. The rice vermicelli pushes it toward a bún bowl._
 
 ## Ingredients
 
@@ -22,6 +22,10 @@ _Adapted from the Laab Moo recipe on hot-thai-kitchen.com, scaled up and reworke
 - 340g (12 oz) shelled edamame, frozen
 - 5g (1 tsp) salt
 
+### Noodles
+- 225g (8 oz) dried rice vermicelli
+- 10ml (2 tsp) neutral oil
+
 ### Greens Dressing
 - 45ml (3 tbsp) fish sauce
 - 75ml (5 tbsp) lime juice
@@ -42,7 +46,7 @@ _Adapted from the Laab Moo recipe on hot-thai-kitchen.com, scaled up and reworke
 ### Crunch (add day-of)
 - Reserved toasted rice powder
 - 40g (1/2 cup) fried shallots
-- 70g (1/2 cup) roasted peanuts, crushed (optional)
+- 70g (1/2 cup) roasted peanuts, crushed
 
 ---
 
@@ -61,14 +65,17 @@ Bring the water to a boil in the pot over high heat. Add the pork and stir to br
 
 While the pork is still hot, stir in the shallots and julienned lime leaves so the shallots wilt, separating the layers as you go. Then add the remaining fish sauce, the chili flakes, MSG, lime juice, and about three-quarters of the toasted rice powder. Mix well, then taste and adjust: fish sauce is the only salt here, so add more of it rather than salt. Fold in the edamame.
 
-### 4. Make the Greens Dressing
+### 4. Cook the Noodles
+Cook the vermicelli according to the package, then rinse under cold water until fully cool and drain well. Toss with the oil so the noodles don't clump into a brick in the fridge. They don't need salt; the dressing and laab season them.
+
+### 5. Make the Greens Dressing
 Shake the fish sauce, lime juice, sugar, water, and chili flakes in a jar until the sugar dissolves. It's there to dress the spinach and cabbage so the plain greens don't dilute the laab, and it should taste a little sweeter and less punchy than the laab.
 
-### 5. Prep the Base and Herbs
+### 6. Prep the Base and Herbs
 Toss the spinach and shredded cabbage together. Wash the herbs, dry them well, and store them together in a container lined with a paper towel. Mint blackens once it's cut and wet, so tear it day-of if you can. Leave the cucumber whole and slice it day-of.
 
-### 6. Assemble Storage Containers
-Divide the laab and edamame into 5 microwave-safe containers. Store the spinach and cabbage mix in its own container (or divide it into 5), separate from the meat, so the greens don't wilt.
+### 7. Assemble Storage Containers
+Divide the laab and edamame into 5 microwave-safe containers. Store the spinach and cabbage mix in its own container (or divide it into 5), separate from the meat, so the greens don't wilt. Store the noodles in their own container too.
 
-### 7. Serve
-Microwave a portion of laab for 60–90 seconds, just until warm, since the pork dries out quickly. Lime fades when it's heated, so add a squeeze of fresh lime if it tastes flat. Toss a portion of the greens with 1–2 tbsp of dressing and add sliced cucumber. Pile the warm laab on top, let it cool for a minute so the herbs don't wilt, then add the herbs, a sprinkle of the reserved rice powder, fried shallots, and peanuts.
+### 8. Serve
+Microwave a portion of laab for 60–90 seconds, just until warm, since the pork dries out quickly. Lime fades when it's heated, so add a squeeze of fresh lime if it tastes flat. Cold vermicelli firms up in the fridge, so pour hot water over a portion for a few seconds (or microwave it with a splash of water) and drain to loosen it. Toss the noodles and a portion of the greens with 1–2 tbsp of dressing and add sliced cucumber. Pile the warm laab on top, let it cool for a minute so the herbs don't wilt, then add the herbs, a sprinkle of the reserved rice powder, fried shallots, and peanuts.
