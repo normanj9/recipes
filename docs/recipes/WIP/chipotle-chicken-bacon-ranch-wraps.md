@@ -22,7 +22,6 @@ _An original meal-prep recipe. The chicken marinade is built on the [Chile Rojo 
 
 ### Toppings (prepped ahead)
 - 150g (about 3 cups) shredded romaine hearts or iceberg
-- 140g (about 1¼ cups) shredded pepper jack or Mexican-blend cheese
 - 70g (about 1/3 cup) Mama Lil's peppers, drained and roughly chopped
 - Pickled red onion (optional, see [Taco Salads](../meal-prep/taco-salads.md#1-pickle-the-onion) for the method)
 
@@ -39,7 +38,7 @@ _An original meal-prep recipe. The chicken marinade is built on the [Chile Rojo 
 #### 1. Marinate the Chicken
 Whisk all the marinade ingredients together in a large bowl or zip-top bag. Trim any big pockets of fat from the thighs. If any are much thicker than the rest, pound them to an even ½ inch so they cook evenly and slice into neat strips later. Add the thighs and massage the marinade in to coat. Marinate at least 4 hours or overnight (up to 24 hours).
 
-The salt is set a bit under what the chicken would need on its own (about 0.8% of the meat's weight) because the bacon, cheese, and ranch all bring a lot of salt to the wrap. The base itself is only lightly salted, so it barely counts.
+The salt is set a bit under what the chicken would need on its own (about 0.8% of the meat's weight) because the bacon and ranch both bring a lot of salt to the wrap. The base itself is only lightly salted, so it barely counts.
 
 #### 2. Bake the Chicken
 Heat the oven to 425°F and line a sheet pan with foil. Lay the thighs smooth side up, spaced so they roast instead of steam, and scrape any marinade left in the bag over the tops. Bake 20–25 minutes, until about 175°F in the thickest part. The sugar and chile paste will char at the edges, and that's what you want. For more char, broil 2–3 minutes at the end, but watch closely, because the paste goes from charred to burnt fast.
@@ -51,7 +50,7 @@ Let the chicken rest 10 minutes, then slice across the grain into ¼-inch strips
 Stir the adobo sauce into the ranch. To make it hotter, add half a minced chipotle. Store in a squeeze bottle.
 
 #### 5. Prep the Toppings
-Shred the lettuce and cheese and chop the Mama Lil's peppers. Store each in its own container. Pickle the onion if using.
+Shred the lettuce and chop the Mama Lil's peppers. Store each in its own container. Pickle the onion if using.
 
 ### Day-of (per wrap)
 
@@ -65,7 +64,7 @@ Add about 1/5 of the chicken to the same skillet over medium-high. Toss in the b
 Wipe out the skillet and warm the lavash in it, about 15–20 seconds per side, just until soft and pliable. Don't toast it, or it cracks when you roll it.
 
 #### 9. Assemble
-Lay the lavash with a short side toward you and build in the bottom third. Scatter the cheese first so it melts against the warm bread. Then add the chicken and the bacon, broken to fit. Squeeze on about 2 tbsp of chipotle ranch, then add the Mama Lil's peppers, pickled onion if using, and lettuce. Roll up tightly from the short side, tucking the filling in on the first turn, and cut in half on the bias.
+Lay the lavash with a short side toward you and build in the bottom third. Lay down the chicken and the bacon, broken to fit. Squeeze on about 2 tbsp of chipotle ranch, then add the Mama Lil's peppers, pickled onion if using, and lettuce. Roll up tightly from the short side, tucking the filling in on the first turn, and cut in half on the bias.
 
 ## Notes
 - **Storage:** cooked chicken keeps 4 days. For the fifth lunch, freeze that day's portion of sliced chicken on prep day and thaw it in the fridge the night before.
