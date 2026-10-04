@@ -51,4 +51,5 @@ _Original recipe._
 | Frijoles        | 1 cube added to pot after beans are cooked through            |
 | Tinga           | Thin with 1/2 cup stock; add 1 chipotle in adobo              |
 | Adobo/marinade  | Add 2 tbsp vinegar, 1 tbsp sugar, 2 chipotles in adobo        |
+| Chipotle chicken marinade | See [Chipotle Chicken Bacon Ranch Wraps](../WIP/chipotle-chicken-bacon-ranch-wraps.md) |
 | Chilorio sauce  | See [Chilorio sauce](chilorio-sauce.md)                        |
