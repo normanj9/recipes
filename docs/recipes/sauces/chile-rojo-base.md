@@ -1,19 +1,19 @@
 # Chile Rojo Base
 
-_Original recipe. Makes about 2–2½ cups (30–35 squares) — estimated, not yet weighed._
+_Original recipe. Sized for half of a 1 lb bag of each chile. Makes about 7–8½ cups (110–130 squares, about 5 gallon bags) — estimated, not yet weighed._
 
 ## Ingredients
 
 ### Chiles
 
-- 12 dried guajillo chiles
-- 12 dried pasilla chiles
+- 8 oz (225g) dried guajillo chiles, ~40–45 chiles
+- 8 oz (225g) dried pasilla chiles, ~35–40 chiles
 
 ### Aromatics & Seasoning
 
-- 18 cloves garlic, unpeeled
-- 2 tbsp Mexican oregano
-- 2 tsp salt
+- ~60 cloves garlic (300g peeled), unpeeled or pre-peeled
+- 15g (7 tbsp) Mexican oregano
+- 22g (2⅓ tbsp) salt — start with 18g
 - Reserved chile soaking liquid, to consistency
 
 ---
@@ -22,44 +22,30 @@ _Original recipe. Makes about 2–2½ cups (30–35 squares) — estimated, not 
 
 ### 1. Roast Garlic
 
-1. Dry-roast unpeeled garlic cloves in a hot pan 8–10 minutes, turning occasionally, until soft inside. Peel and set aside.
+1. Heat oven to 400°F. Roast unpeeled cloves on a sheet pan 15–20 minutes, until soft inside, then peel. Or roast pre-peeled cloves in a foil packet with a little oil.
 
 ### 2. Toast and Soak Chiles
 
-1. Stem and seed guajillo and pasilla chiles. Toast in a dry pan, pressing flat, until fragrant and darkening at edges — 2–3 minutes per side.
-2. Transfer to a bowl, cover with hot water, and soak 20–30 minutes. Drain, reserving soaking liquid.
+1. Lower oven to 350°F. Stem and seed chiles — kitchen shears make this faster: snip off the stem cap, slit open, shake out seeds.
+2. Toast in a single layer on sheet pans, 2–4 minutes per pan, until fragrant and darkening at the edges. Watch closely; they scorch fast.
+3. Transfer to a stockpot, cover with hot water, and weight under a plate. Soak 20–30 minutes. Drain, reserving soaking liquid.
 
 ### 3. Blend
 
-1. Add all ingredients to blender. Blend smooth, adding soaking liquid 1 tbsp at a time until paste is thick and coats a spoon heavily.
-2. Taste and adjust salt.
+1. Blend in 3–4 loads, filling the blender no more than halfway. Add soaking liquid 1 tbsp at a time until paste is thick and coats a spoon heavily.
+2. Combine all loads in one large bowl. Taste and adjust salt on the combined batch so every bag is seasoned the same.
 
 ### 4. Freeze
 
-1. Pour paste into a gallon freezer bag. Seal, lay flat on a sheet pan, and spread to an even layer approximately 1/4 inch thick.
+1. Divide paste among gallon freezer bags, about 1½–1¾ cups each. Seal, lay flat on sheet pans, and spread to an even layer approximately 1/4 inch thick.
 2. Score a grid of 2-inch squares into the paste using a bench scraper, pressing firmly through the bag to create clean perforations.
-3. Freeze flat. Once frozen, snap portions as needed — one 2-inch square (about 1 tbsp) is a standard 2-cube equivalent. A gallon bag holds about 25 squares (1½–1¾ cups).
-
-## Bulk Batch (8 oz bags)
-
-About 3.5× the recipe above, sized to half of a 1 lb bag of each chile. Yields roughly 7–8½ cups (110–130 squares, about 5 gallon bags). Quantities are estimates — weigh the finished paste to confirm.
-
-| Ingredient        | Amount                                       |
-| ----------------- | -------------------------------------------- |
-| Guajillo chiles   | 8 oz (225g), ~40–45 chiles                   |
-| Pasilla chiles    | 8 oz (225g), ~35–40 chiles                   |
-| Garlic            | ~60 cloves / 300g peeled                     |
-| Mexican oregano   | ~15g / 7 tbsp                                |
-| Salt              | ~22g / 2⅓ tbsp — start with 18g, adjust      |
-
-Changes to the method at this scale:
-
-1. **Chiles:** toast on sheet pans in a 350°F oven, 2–4 minutes per pan, until fragrant. Soak in a stockpot, weighted under a plate.
-2. **Garlic:** roast unpeeled cloves on a sheet pan at 400°F, 15–20 minutes, until soft. Or roast pre-peeled cloves in a foil packet with a little oil.
-3. **Blend:** work in 3–4 loads, filling the blender no more than halfway. Combine all loads in one bowl before tasting and adjusting salt, so every bag is seasoned the same.
-4. **Freeze:** about 1½–1¾ cups (25 squares) per gallon bag, scored and frozen flat as above. Stack on sheet pans with parchment between; once solid, store upright. Best within 6–12 months.
+3. Freeze flat, stacking pans with parchment between bags. After 30–45 minutes, re-score the grid while the paste is firm for cleaner breaks.
+4. Once solid, store bags upright. Label with the date and "1 square = 1 tbsp". Best within 6–12 months.
+5. Snap portions from a corner as needed, pressing the air out before resealing — one 2-inch square (about 1 tbsp) is a standard 2-cube equivalent. A gallon bag holds about 25 squares.
 
 **Leftover dried chiles:** press the air out of the bag, seal it tightly, and freeze. Thaw in the sealed bag before opening so condensation doesn't form on the chiles.
+
+**Small batch:** 12 guajillo, 12 pasilla, 18 garlic cloves, 2 tbsp oregano, 2 tsp salt makes about 2–2½ cups (30–35 squares). Toast the chiles and dry-roast the garlic in a skillet instead of the oven.
 
 ## Derivatives
 
