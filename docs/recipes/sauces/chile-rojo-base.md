@@ -52,4 +52,5 @@ _Original recipe._
 | Tinga           | Thin with 1/2 cup stock; add 1 chipotle in adobo              |
 | Adobo/marinade  | Add 2 tbsp vinegar, 1 tbsp sugar, 2 chipotles in adobo        |
 | Chipotle chicken marinade | See [Chipotle Chicken Bacon Ranch Wraps](../WIP/chipotle-chicken-bacon-ranch-wraps.md) |
+| Camarones a la diabla | See [Camarones a la Diabla](../WIP/camarones-a-la-diabla.md) |
 | Chilorio sauce  | See [Chilorio sauce](chilorio-sauce.md)                        |
