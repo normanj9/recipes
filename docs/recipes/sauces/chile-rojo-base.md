@@ -1,6 +1,6 @@
 # Chile Rojo Base
 
-_Original recipe._
+_Original recipe. Makes about 2–2½ cups (30–35 squares) — estimated, not yet weighed._
 
 ## Ingredients
 
@@ -37,8 +37,29 @@ _Original recipe._
 ### 4. Freeze
 
 1. Pour paste into a gallon freezer bag. Seal, lay flat on a sheet pan, and spread to an even layer approximately 1/4 inch thick.
-2. Score a 2x2 inch grid into the paste using a bench scraper, pressing firmly through the bag to create clean perforations.
-3. Freeze flat. Once frozen, snap portions as needed — one 2x2 square is a standard 2-cube equivalent.
+2. Score a grid of 2-inch squares into the paste using a bench scraper, pressing firmly through the bag to create clean perforations.
+3. Freeze flat. Once frozen, snap portions as needed — one 2-inch square (about 1 tbsp) is a standard 2-cube equivalent. A gallon bag holds about 25 squares (1½–1¾ cups).
+
+## Bulk Batch (8 oz bags)
+
+About 3.5× the recipe above, sized to half of a 1 lb bag of each chile. Yields roughly 7–8½ cups (110–130 squares, about 5 gallon bags). Quantities are estimates — weigh the finished paste to confirm.
+
+| Ingredient        | Amount                                       |
+| ----------------- | -------------------------------------------- |
+| Guajillo chiles   | 8 oz (225g), ~40–45 chiles                   |
+| Pasilla chiles    | 8 oz (225g), ~35–40 chiles                   |
+| Garlic            | ~60 cloves / 300g peeled                     |
+| Mexican oregano   | ~15g / 7 tbsp                                |
+| Salt              | ~22g / 2⅓ tbsp — start with 18g, adjust      |
+
+Changes to the method at this scale:
+
+1. **Chiles:** toast on sheet pans in a 350°F oven, 2–4 minutes per pan, until fragrant. Soak in a stockpot, weighted under a plate.
+2. **Garlic:** roast unpeeled cloves on a sheet pan at 400°F, 15–20 minutes, until soft. Or roast pre-peeled cloves in a foil packet with a little oil.
+3. **Blend:** work in 3–4 loads, filling the blender no more than halfway. Combine all loads in one bowl before tasting and adjusting salt, so every bag is seasoned the same.
+4. **Freeze:** about 1½–1¾ cups (25 squares) per gallon bag, scored and frozen flat as above. Stack on sheet pans with parchment between; once solid, store upright. Best within 6–12 months.
+
+**Leftover dried chiles:** press the air out of the bag, seal it tightly, and freeze. Thaw in the sealed bag before opening so condensation doesn't form on the chiles.
 
 ## Derivatives
 
@@ -52,4 +73,5 @@ _Original recipe._
 | Tinga           | Thin with 1/2 cup stock; add 1 chipotle in adobo              |
 | Adobo/marinade  | Add 2 tbsp vinegar, 1 tbsp sugar, 2 chipotles in adobo        |
 | Chipotle chicken marinade | See [Chipotle Chicken Bacon Ranch Wraps](../WIP/chipotle-chicken-bacon-ranch-wraps.md) |
+| Camarones a la diabla | See [Camarones a la Diabla](../WIP/camarones-a-la-diabla.md) |
 | Chilorio sauce  | See [Chilorio sauce](chilorio-sauce.md)                        |
