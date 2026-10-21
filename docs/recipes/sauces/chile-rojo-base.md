@@ -60,4 +60,5 @@ _Original recipe. Sized for half of a 1 lb bag of each chile. Makes about 7â€“8Â
 | Adobo/marinade  | Add 2 tbsp vinegar, 1 tbsp sugar, 2 chipotles in adobo        |
 | Chipotle chicken marinade | See [Chipotle Chicken Bacon Ranch Wraps](../WIP/chipotle-chicken-bacon-ranch-wraps.md) |
 | Camarones a la diabla | See [Camarones a la Diabla](../WIP/camarones-a-la-diabla.md) |
+| Taco meat       | See [Taco Salad Meal Prep](../meal-prep/taco-salads.md)        |
 | Chilorio sauce  | See [Chilorio sauce](chilorio-sauce.md)                        |
