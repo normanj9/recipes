@@ -1,6 +1,6 @@
 # Gochujang Salmon Bowls
 
-_An original recipe: convection-roasted salmon over leftover purple rice._
+_An original recipe: convection-roasted salmon over purple rice._
 
 ## Ingredients
 
@@ -20,9 +20,9 @@ _An original recipe: convection-roasted salmon over leftover purple rice._
 - 2 g / 1 tsp gochugaru (optional, for more heat)
 
 ### To Serve
-- 300 g / 2 cups cooked purple rice, leftover
+- 300 g / 2 cups cooked purple rice
 - 150 g / 1 cup kimchi
-- 9 g / 2 packs roasted seasoned seaweed snack, crumbled
+- 9 g / 2 packs roasted seasoned seaweed snack
 - 30 g / 2 scallions, thinly sliced
 - 3 g / 1 tsp toasted sesame seeds
 
@@ -41,8 +41,8 @@ Pat the salmon dry and salt it lightly on all sides. Don't skip the salt: the gl
 ### 3. Roast
 Set the fillets on the rack, skinned side down. Roast 5 minutes, then brush on the rest of the glaze. Keep roasting until the center reads 120°F / 49°C, about 7 to 9 minutes total. Carryover heat brings it to about 125°F / 52°C. For more char on the glaze, broil for 1 minute at the end.
 
-### 4. Reheat the rice
-While the salmon roasts, sprinkle the rice with a splash of water, cover, and microwave until steaming.
+### 4. Warm the rice
+If the rice is fresh, keep it warm in the cooker. If it's leftover, sprinkle it with a splash of water, cover, and microwave until steaming while the salmon roasts.
 
 ### 5. Serve
-Divide the rice between 2 bowls and top with the salmon, kimchi, and scallions. Crumble the seaweed over the top and finish with sesame seeds. Serve the reserved glaze at the table to spoon over. The seaweed is already salted, so taste before adding anything else.
+Divide the rice between 2 bowls and top with the salmon, kimchi, and scallions. Finish with sesame seeds. Serve the seaweed sheets on the side for wrapping bites of rice and salmon, with the reserved glaze at the table to spoon over. The seaweed is already salted, so taste before adding anything else.
