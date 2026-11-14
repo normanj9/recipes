@@ -22,7 +22,7 @@ _An original recipe: convection-roasted salmon over leftover purple rice._
 ### To Serve
 - 300 g / 2 cups cooked purple rice, leftover
 - 150 g / 1 cup kimchi
-- 9 g / 2 packs roasted seasoned seaweed snack, crumbled
+- 9 g / 2 packs roasted seasoned seaweed snack
 - 30 g / 2 scallions, thinly sliced
 - 3 g / 1 tsp toasted sesame seeds
 
@@ -45,4 +45,4 @@ Set the fillets on the rack, skinned side down. Roast 5 minutes, then brush on t
 While the salmon roasts, sprinkle the rice with a splash of water, cover, and microwave until steaming.
 
 ### 5. Serve
-Divide the rice between 2 bowls and top with the salmon, kimchi, and scallions. Crumble the seaweed over the top and finish with sesame seeds. Serve the reserved glaze at the table to spoon over. The seaweed is already salted, so taste before adding anything else.
+Divide the rice between 2 bowls and top with the salmon, kimchi, and scallions. Finish with sesame seeds. Serve the seaweed sheets on the side for wrapping bites of rice and salmon, with the reserved glaze at the table to spoon over. The seaweed is already salted, so taste before adding anything else.
