@@ -29,6 +29,7 @@ extra_css:
 nav:
   - Home: index.md
   - recipes/gennaros-chicken.md
+  - recipes/gochujang-salmon-bowls.md
   - recipes/lahmacun.md
   - recipes/loco-moco.md
   - recipes/mapo-tofu.md
