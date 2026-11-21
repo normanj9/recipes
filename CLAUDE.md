@@ -3,7 +3,6 @@
 Unless a recipe calls for something specific, assume these staples (what we stock, mostly from Costco):
 
 - Salt: Diamond Crystal kosher salt
-- Butter: Kerrygold salted butter
 - Stock/broth: Better Than Bouillon (chicken and beef varieties on hand)
 - Thai curry paste: Mae Ploy
 
